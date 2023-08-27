@@ -1,1 +1,1 @@
-A simple receipe website devopled as part of the Odin Project course
+A simple receipe website developed as part of the Odin Project course
